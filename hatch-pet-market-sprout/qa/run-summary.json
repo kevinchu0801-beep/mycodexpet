@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "run_dir": "/Users/liali/Documents/日常问题/hatch-pet-market-sprout",
+  "spritesheet": "/Users/liali/Documents/日常问题/hatch-pet-market-sprout/final/spritesheet.webp",
+  "validation": "/Users/liali/Documents/日常问题/hatch-pet-market-sprout/final/validation.json",
+  "contact_sheet": "/Users/liali/Documents/日常问题/hatch-pet-market-sprout/qa/contact-sheet.png",
+  "review": "/Users/liali/Documents/日常问题/hatch-pet-market-sprout/qa/review.json",
+  "package": "/Users/liali/.codex/pets/market-sprout"
+}
